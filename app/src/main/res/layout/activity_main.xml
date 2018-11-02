@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        />
+    <EditText
+        android:id="@+id/et_id"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Id"
+        android:lines="1"/>
+    <EditText
+        android:id="@+id/et_pwd"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Password"
+        android:lines="1"/>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="LOGIN"
+        android:textColor="#FFFFFF"
+        android:background="#ff9d00"/>
+
+    <Button
+        android:id="@+id/btn_select_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="selectImage"/>
+
+    <Button
+        android:id="@+id/btn_upload_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UploadTest"/>
+
+    <Button
+        android:id="@+id/btn_upload_many_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UploadManyTest"/>
+
+</LinearLayout>

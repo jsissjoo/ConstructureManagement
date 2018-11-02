@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "68262217012",
+    "firebase_url": "https://constructuremanagement-c2655.firebaseio.com",
+    "project_id": "constructuremanagement-c2655",
+    "storage_bucket": "constructuremanagement-c2655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68262217012:android:687728e90a8cbbb8",
+        "android_client_info": {
+          "package_name": "com.inbm.constructuremanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68262217012-pkddmrttr4496di2ms9iou1pddrrcvrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inbm.constructuremanagement",
+            "certificate_hash": "b785f4d5bd9a76a7a95685ef5821b0188b2f40aa"
+          }
+        },
+        {
+          "client_id": "68262217012-qbi615p2h47l9lac2spusos1sjah88bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0zkXPSl5sjPpillLkv1eDP8Uq9GJy2w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68262217012-qbi615p2h47l9lac2spusos1sjah88bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
